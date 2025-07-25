@@ -1,0 +1,131 @@
+/* share style */
+
+.inter-normal{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.inter-dec{
+ font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal; 
+}
+
+
+
+
+.display-flex{
+    display: flex;
+}
+.text-item{
+    color: #8987A1;
+}
+.black{
+    color: black;
+}
+.home{
+    height: 46px;
+    width: 24px;
+}
+.shop{
+    height: 39px;
+    width: 24px;
+}
+.about{
+    height: 73px;
+    width: 24px;
+}
+
+/* navbar related */
+.navbar{
+
+    height: 71px;
+    width: 1140px;
+     justify-content: space-around;
+     margin: 30px 150px 120px 150px;
+     gap: 590px;
+
+}
+.nav-item{
+    list-style: none;
+    margin-right: 48px;
+    font-weight: 400px;
+}
+
+.nav-link{
+    text-decoration: none;
+    align-items: center;
+    height: 60px;
+    width: 415px;
+    gap: 48px;
+     
+}
+
+.cart-text{
+    font-family: medium;
+     height: 24px;
+    width: 79px;
+    font-size: 600;
+    margin: 10px;
+    
+    
+
+}
+.fa-cart-shopping{
+    margin: 10px;
+    height: 24px;
+    width: 24px;
+    
+    
+
+}
+/* Banar */
+.banar{
+ padding: 120px 150px 120px 150px;
+ margin-top: 120px;
+ align-items: end;
+}
+.banar-title{
+    font-size: 65px;
+    font-weight: bold;
+    color: #000000;
+    margin: 0 13px;
+    font-family: Noto Serif;
+}
+.title-fash{
+    color: #E95A08;
+}
+.banar-dsc{
+    margin: 0 150px 0 0;
+    height: 108px;
+    width: 570px;
+    font-size: 22px;
+    font-family: inter;
+    margin-top: 10px;
+    margin-left: 15px;
+   
+}
+.banar-item{
+    
+}
+
+
+/* Flower */
+.flower-dsc{
+ 
+}
+.card{
+   height: 68px;
+    width: 1140px;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 120px 650px 16px 650px;
+}
+.text-item{ 
+    font-size: 22px;
+    font-weight: 300px;
+    margin: 16px 276px 48px 276px;
+}
