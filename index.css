@@ -40,6 +40,7 @@
 }
 
 /* navbar related */
+
 .navbar{
 
     height: 71px;
@@ -53,6 +54,7 @@
     list-style: none;
     margin-right: 48px;
     font-weight: 400px;
+  
 }
 
 .nav-link{
@@ -99,7 +101,7 @@
     color: #E95A08;
 }
 .banar-dsc{
-    margin: 0 150px 0 0;
+    margin: 0 150px ;
     height: 108px;
     width: 570px;
     font-size: 22px;
@@ -108,9 +110,7 @@
     margin-left: 15px;
    
 }
-.banar-item{
-    
-}
+
 
 
 /* Flower */
